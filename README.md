@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi895&show_icons=true&locale=en" alt="https://github.com/Shashi shankar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi895&" alt="shashi shankar" /></p>
+
